@@ -11,6 +11,8 @@ const Color cLightGrey = Color(0xffededed);
 const Color cWhite = Color(0xffffffff);
 const Color cBlack = Color(0xff111111);
 
+const Color green40 = Color(0xff00cc00);
+
 const Color cYellow = Color(0xffffd33c);
 const double cBorderRadius = 12.0;
 const double cPaddingHorizontal = 24.0;
